@@ -1,6 +1,6 @@
 # HIRING: machine learning research scientist
 
-## about the NIMH machine learning team
+## About the NIMH machine learning team
 
 The Machine Learning Team at the National Institute of Mental Health (NIMH) in Bethesda, MD, has an open position for a machine learning research scientist. The NIMH is the lead federal agency for research on mental disorders, and part of the the National Institutes of Health (NIH).
 
@@ -8,7 +8,7 @@ Our mission is to help NIMH scientists use machine learning methods to address a
 
 We have excellent computational resources, both of our own (tens of GPUs for deep learning) and shared within the NIH (a top-100 supercomputer with hundreds of thousands of CPUs, and hundreds of GPUs). You can find more about our work and publications at https://cmn.nimh.nih.gov/mlt.html.
 
-## about the position
+## About the position
 
 This is an ideal position for someone who wants to establish a research career in methods development and applications driven by scientific and clinical needs. Given our access to a variety of collaborators and large/unique datasets, there is ample opportunity to match research interests with novel research problems. We also maintain collaborations outside of the NIH, driven by our own research interests.
 
