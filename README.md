@@ -14,7 +14,7 @@ This is an ideal position for someone who wants to establish a research career i
 
 We are seeking candidates with practical machine learning experience (e.g. training of classification and regression models, statistical testing of results, interpretation and visualization of key aspects of models). Beyond this, the ideal candidate would have knowledge of optimization and statistics, insofar as they bear on machine learning methods development. Experience working with neuroimaging data (any MRI modality, as well as MEG/EEG) will be considered very favorably, but is not required. Finally, you should have demonstrable experience coding in languages currently used in data-intensive, scientific computing such as Python, MATLAB or R.
 
-If you would like to be considered for this position, please send francisco.pereira@nih.gov a CV, with your email as cover letter; if you have a research statement, please feel free to send that as well. Other inquiries are also welcome. Applications received by February 22, 2019 will receive full consideration, but applications will be accepted until the position is filled. DHHS and NIH are Equal Opportunity Employers. Thank you for your interest!
+If you would like to be considered for this position, please send francisco.pereira@nih.gov a CV, with your email as cover letter; if you have a research statement, please feel free to send that as well. Other inquiries are also welcome. Applications received by February 29, 2019 will receive full consideration, but applications will be accepted until the position is filled. DHHS and NIH are Equal Opportunity Employers. Thank you for your interest!
 
 
    
