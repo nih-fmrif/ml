@@ -19,7 +19,7 @@ Candidates with a strong computational background (e.g., PhD in Engineering, Phy
 
 Experience in psychiatry or knowledge of software for processing neuroimaging data are not required. However, the candidate will be expected to learn some of these topics as part of their role in our research group.
 
-##How to apply:
+## How to apply:
 
 The successful candidate will work jointly with the laboratories of Drs. Daniel Pine, David Jangraw, and Francisco Pereira. Please write to them (pined@mail.nih.gov, david.jangraw@nih.gov, francisco.pereira@nih.gov) with your CV, using the email as the cover letter. Questions are also very welcome. The National Institutes of Health is an equal opportunity employer.
 
