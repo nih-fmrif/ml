@@ -2,7 +2,7 @@
 
 ## Who we are:
 
-Drs. [Daniel Pine](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/sdan/index.shtml) and [David Jangraw](https://davidjangraw.wordpress.com) are seeking applicants for a Post-Doctoral Fellowship position that would develop new machine learning-based approaches for the diagnosis and treatment of mental illnesses. Our aims are to better understand the causes and mechanisms of certain psychiatric disorders, improve their definition and classification, and ensure the best treatment can be offered to psychiatric patients. We do this by identifying neuroscience-based phenotypes that map onto clinical phenotypes, and which can be targeted with novel treatments. The position is co-advised by the [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), whose mission is to solve the scientific problems of NIMH researchers by developing new machine learning methods, or developing new analysis approaches relying on existing methods.
+Drs. [Daniel Pine](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/sdan/index.shtml) and [David Jangraw](https://davidjangraw.wordpress.com) are seeking applicants for a Post-Doctoral Fellowship position that would develop new machine learning-based approaches for the diagnosis and treatment of mental illnesses. Our aims are to better understand the causes and mechanisms of certain psychiatric disorders, improve their definition and classification, and ensure the best treatment can be offered to psychiatric patients. We do this by identifying neuroscience-based phenotypes that map onto clinical phenotypes, and which can be targeted with novel treatments. The position is co-advised by the [NIMH Machine Learning Team](https://cmn.nimh.nih.gov/mlt), whose mission is to solve the scientific problems of NIMH researchers by developing new machine learning methods, or developing new analysis approaches relying on existing methods.
 
 
 
@@ -25,7 +25,7 @@ Experience in psychiatry or knowledge of software for processing neuroimaging da
 
 ## How to apply:
 
-The successful candidate will work jointly with the laboratories of Drs. Daniel Pine, David Jangraw, and Francisco Pereira. Please write to them (pined@mail.nih.gov, david.jangraw@nih.gov, francisco.pereira@nih.gov) with your CV, using the email as the cover letter. Questions are also very welcome. The National Institutes of Health is an equal opportunity employer.
+The successful candidate will work jointly with Drs. Daniel Pine, David Jangraw, and Francisco Pereira. Please write to them (pined@mail.nih.gov, david.jangraw@nih.gov, francisco.pereira@nih.gov) with your CV, using the email as the cover letter. Other enquiries are also very welcome. The National Institutes of Health is an equal opportunity employer.
 
 
    
