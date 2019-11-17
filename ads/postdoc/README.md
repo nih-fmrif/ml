@@ -2,11 +2,11 @@
 
 ## Who we are:
 
-Drs. Daniel Pine and David Jangraw are seeking applicants for a Post-Doctoral Fellowship position that would develop new machine learning-based approaches for the diagnosis and treatment of mental illnesses. Our aims are to better understand the causes and mechanisms of certain psychiatric disorders, improve their definition and classification, and ensure the best treatment can be offered to psychiatric patients. We do this by identifying neuroscience-based phenotypes that map onto clinical phenotypes, and which can be targeted with novel treatments. The position is co-advised by the NIMH Machine Learning Team, whose mission is to solve the scientific problems of NIMH researchers by developing new machine learning methods, or developing new analysis approaches relying on existing methods.
+Drs. [Daniel Pine](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/sdan/index.shtml) and [David Jangraw](https://davidjangraw.wordpress.com) are seeking applicants for a Post-Doctoral Fellowship position that would develop new machine learning-based approaches for the diagnosis and treatment of mental illnesses. Our aims are to better understand the causes and mechanisms of certain psychiatric disorders, improve their definition and classification, and ensure the best treatment can be offered to psychiatric patients. We do this by identifying neuroscience-based phenotypes that map onto clinical phenotypes, and which can be targeted with novel treatments. The position is co-advised by the [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), whose mission is to solve the scientific problems of NIMH researchers by developing new machine learning methods, or developing new analysis approaches relying on existing methods.
 
-[Daniel Pine](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/sdan/index.shtml)
-[David Jangraw](https://davidjangraw.wordpress.com)
-[Machine Learning Team](https://cmn.nimh.nih.gov/mlt)
+
+
+
 
 ## What you will do:
 
