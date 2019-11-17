@@ -4,6 +4,10 @@
 
 Drs. Daniel Pine and David Jangraw are seeking applicants for a Post-Doctoral Fellowship position that would develop new machine learning-based approaches for the diagnosis and treatment of mental illnesses. Our aims are to better understand the causes and mechanisms of certain psychiatric disorders, improve their definition and classification, and ensure the best treatment can be offered to psychiatric patients. We do this by identifying neuroscience-based phenotypes that map onto clinical phenotypes, and which can be targeted with novel treatments. The position is co-advised by the NIMH Machine Learning Team, whose mission is to solve the scientific problems of NIMH researchers by developing new machine learning methods, or developing new analysis approaches relying on existing methods.
 
+https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/sdan/index.shtml
+https://davidjangraw.wordpress.com/
+https://cmn.nimh.nih.gov/mlt
+
 ## What you will do:
 
 One line of research will focus on refining and testing latent constructs derived from multiple brain imaging and behavioral markers of inhibitory control. Inhibitory control deficits are common to many psychiatric disorders, and if the latent construct shows good reliability, it may serve as a target for novel treatments. Another line of research will hinge on extracting characteristics of psychotherapy session data, such as therapist speech and facial expressions, that can predict patient clinical outcomes. While the work will concentrate on anxiety and mood disorders in young people, the approaches will be applicable to any mental disorder. 
