@@ -6,7 +6,9 @@ The Machine Learning Team at the National Institute of Mental Health (NIMH) in B
 
 Our mission is to help NIMH scientists use machine learning methods to address a diverse set of research problems in clinical and cognitive psychology and neuroscience. These range from identifying biomarkers for aiding diagnoses to creating and testing models of mental processes in healthy subjects. We work with many different data types, including very large brain imaging datasets from various imaging modalities, behavioral data, and picture and text corpora. We have excellent computational resources, both of our own (tens of GPUs for deep learning) and shared within the NIH (a cluster with hundreds of thousands of CPUs, and hundreds of GPUs).
  
-As a machine learning research group, we develop new methods and publish in the main machine learning conferences (e.g. NeurIPS and ICLR), as well as in psychology and neuroscience journals. Many of our problems require devising research approaches that combine imaging and non-imaging data, and leveraging structured knowledge resources (databases, scientific literature, etc) to generate explanations and hypotheses. You can find more about our work and publications at https://cmn.nimh.nih.gov/mlt.html.
+ As a machine learning research group, we develop new methods and publish in the main machine learning conferences (e.g. NeurIPS and ICLR), as well as in psychology and neuroscience journals. Many of our problems require devising research approaches that combine imaging and non-imaging data, and leveraging structured knowledge resources (databases, scientific literature, etc) to generate explanations and hypotheses. You can find more about our work and publications at
+
+[https://cmn.nimh.nih.gov/mlt.html]
 
 ## About the position
 
