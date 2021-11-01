@@ -16,7 +16,7 @@ As a machine learning research group, we develop new methods and publish in the 
 
 We are seeking candidates who are capable of combining machine learning, statistical, and domain-specific computational tools to solve practical data analysis challenges (e.g. designing experiments, generating and testing statistical hypotheses, training and interpreting predictive models, and developing novel models and methods). Additionally, candidates should be capable of visualizing and communicating findings to a broad scientific audience, as well as explaining the details of relevant methods to researchers in a variety of domains.
 
-Desirable experience that is not required, but will be considered very favorably:
+Desirable experience that is not required, but will be considered very favorably, includes:
 * deep learning
 * reinforcement learning
 * Bayesian statistical modelling
