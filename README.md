@@ -30,7 +30,7 @@ Finally, you should have demonstrable experience programming in languages curren
 
 This is an ideal position for someone who wants to establish a research career in method development and applications driven by scientific and clinical needs. Given our access to a variety of collaborators and large or unique datasets, there is ample opportunity to match research interests with novel research problems. We also maintain collaborations outside of the NIH, driven by our own research interests or community impact.
 
-If you would like to be considered for this position, please send francisco.pereira@nih.gov a CV, with your email serving as cover letter. We especially encourage applications from women and members of underrepresented groups. If you already have a research statement, please feel free to send that as well. There is no need for reference letters at this stage. Other inquiries are also very welcome. Thank you for your attention and interest!
+If you would like to be considered for this position, please send francisco.pereira@nih.gov a CV, with your email serving as cover letter. We especially encourage applications from members of underrepresented groups in the machine learning research community. If you already have a research statement, please feel free to send that as well. There is no need for reference letters at this stage. Other inquiries are also very welcome. Thank you for your attention and interest!
 
 
    
